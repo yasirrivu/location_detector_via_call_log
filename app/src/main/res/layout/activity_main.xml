@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#79d0e0"
+    tools:context="com.example.y34h1a.phonestatereceiver.MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvCallList"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:background="#79d0e0"
+        android:scrollbars="vertical"
+        android:textColor="#FFF"
+        tools:listitem="@layout/row_call_list" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:background="@drawable/location"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/rvCallList"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginTop="14dp"
+        android:onClick="buttonClickFunction"
+         />
+
+
+
+</RelativeLayout>
