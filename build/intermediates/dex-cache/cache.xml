@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4695c698d1a8c1820a8a4a1a11c5e2014537989f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\85e6eb7fb847bc3fc921aeb2b2a8cefbe441ba86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d2749d4f8af918457b9f497c9c1e3c704920f9bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c486814a136541596a1bef8cac603c871caf6a8c">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_047a4ecf5d1f784694787c276d8299adda55f7c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\57a63f49eed5e2882ec64713535a02e9d9a1b1af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c945420d69aac6fbe30c2c2ccb632a62c63b141a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\f3202b80e68e20ecf2c001e584596edc2875fcaa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64a5e7550c01c3fc2ab3792abef874fbc952ad34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\3e493823cecf08feba95c2c2aad71a7ae1ef6c39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0839db36637384bbe86dd727e1219097f37c5822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\ba905991e8810f2a4ddd039fb52ff53559ab5e63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc2865de829b7b6631c00a37736c5929895c9d86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\c158d4c46ca41fb0303a8495ffdddd1335f9ebe1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7838e11abb5bc81cd7a589b9fd4b3e50a70a0e8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sami\.android\build-cache\dc0c17f1f4c9c305931ac1d8b35c617419bc5075\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\Android\CSE323\Call-Log-With-Location-master-0a9cd48a2e5fc835cf0372141cadef69b312fb97\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_879b34dde42115aee6079b69b218271ea6b6cf6c\classes.dex" />
+    </item>
+
+</items>
